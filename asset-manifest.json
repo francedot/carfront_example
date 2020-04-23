@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carfront_example/static/css/main.d1b05096.chunk.css",
+    "main.js": "/carfront_example/static/js/main.ec4b8a29.chunk.js",
+    "main.js.map": "/carfront_example/static/js/main.ec4b8a29.chunk.js.map",
+    "runtime-main.js": "/carfront_example/static/js/runtime-main.81cde9a8.js",
+    "runtime-main.js.map": "/carfront_example/static/js/runtime-main.81cde9a8.js.map",
+    "static/css/2.748935a2.chunk.css": "/carfront_example/static/css/2.748935a2.chunk.css",
+    "static/js/2.b6cabf52.chunk.js": "/carfront_example/static/js/2.b6cabf52.chunk.js",
+    "static/js/2.b6cabf52.chunk.js.map": "/carfront_example/static/js/2.b6cabf52.chunk.js.map",
+    "index.html": "/carfront_example/index.html",
+    "precache-manifest.2403bd721f80ad02cd8dcf064b9f4623.js": "/carfront_example/precache-manifest.2403bd721f80ad02cd8dcf064b9f4623.js",
+    "service-worker.js": "/carfront_example/service-worker.js",
+    "static/css/2.748935a2.chunk.css.map": "/carfront_example/static/css/2.748935a2.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/carfront_example/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b6cabf52.chunk.js.LICENSE.txt": "/carfront_example/static/js/2.b6cabf52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81cde9a8.js",
+    "static/css/2.748935a2.chunk.css",
+    "static/js/2.b6cabf52.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.ec4b8a29.chunk.js"
+  ]
+}
